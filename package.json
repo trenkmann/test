@@ -1,0 +1,23 @@
+{
+  "name": "test_fork",
+  "version": "1.0.0",
+  "description": "Test repository for all things github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HomeBaseVienna/test_fork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HomeBaseVienna/test_fork/issues"
+  },
+  "homepage": "https://github.com/HomeBaseVienna/test_fork#readme",
+  "dependencies": {
+    "vue": "^3.3.11"
+  }
+}
