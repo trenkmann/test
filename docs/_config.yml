@@ -1,1 +1,4 @@
 theme: jekyll-theme-minima
+sphinx:
+  config:
+    templates_path: ['_templates']
